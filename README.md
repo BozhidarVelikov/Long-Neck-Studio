@@ -7,4 +7,4 @@ Welcome to **Long Neck Studio**'s webiste.
 [Handy Console](https://bozhidarvelikov.github.io/Handy-Console/)
 
 ## Contact Me
-Email: bozhidar.p.velikov@gmail.com
+Please, use the following email address to contact me: **bozhidar.p.velikov@gmail.com**
